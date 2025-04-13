@@ -1,10 +1,9 @@
 # 📊 Sales Performance Dashboard – Power BI | Excel | MySQL
 
-
-
-## Objective
-
+## Introduction
 This project features a fully interactive and insightful **Sales Performance Dashboard** built using **Power BI**, designed for a **Consumer Electronics** business to track key KPIs like Total Revenue, Profit, and Sales Orders. The goal was to empower data-driven decisions by visualizing trends, top-performing products, and channel-wise revenue contributions.
+
+![image alt](C:\Users\ASUS\OneDrive\Desktop\Power Bi - Sales Dashboard)
 
 ---
 
