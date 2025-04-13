@@ -3,7 +3,7 @@
 ## Introduction
 This project features a fully interactive and insightful **Sales Performance Dashboard** built using **Power BI**, designed for a **Consumer Electronics** business to track key KPIs like Total Revenue, Profit, and Sales Orders. The goal was to empower data-driven decisions by visualizing trends, top-performing products, and channel-wise revenue contributions.
 
-![image alt](C:\Users\ASUS\OneDrive\Desktop\Power Bi - Sales Dashboard)
+![Sales Performance Dashboard 2nd layout](https://github.com/user-attachments/assets/8457932c-9796-4672-9366-3d5315e89a8c)
 
 ---
 
