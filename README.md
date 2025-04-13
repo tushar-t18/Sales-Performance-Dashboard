@@ -45,7 +45,7 @@ FROM transactions
 GROUP BY Product_Name
 ORDER BY Total_Revenue DESC
 LIMIT 5;
-
+```
 ---
 
 ## 📌 Conclusion
